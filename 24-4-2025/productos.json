@@ -1,0 +1,18 @@
+[
+    {
+      "nombre": "Laptop",
+      "precio": 1500,
+      "categoria": "Electrónica"
+    },
+    {
+      "nombre": "Silla Ergonomica",
+      "precio": 250,
+      "categoria": "Muebles"
+    },
+    {
+      "nombre": "Cafetera",
+      "precio": 80,
+      "categoria": "Electrodomésticos"
+    }
+  ]
+  
